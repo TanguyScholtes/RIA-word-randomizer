@@ -18,4 +18,6 @@ Once installed, you don't have much to do : select a word, hit `Ctrl+Alt+O` or g
 
 ## How to install
 
-You can download this package from its [GitHub repository](https://github.com/TanguyScholtes/RIA-word-randomizer).
+You can download this package from its [GitHub repository](https://github.com/TanguyScholtes/RIA-word-randomizer) or its [dedicated page on Atom](https://atom.io/packages/ria-word-randomizer).
+
+You can also simply launch [Atom](https://atom.io/), go to `File > Settings`, choose the `Install` tab and simply search for `ria-word-randomizer`.
