@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Run RIA Word Randomizer'
+      'command': 'ria-word-randomizer:convert'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'RIA Word Randomizer'
+      'submenu': [
+        {
+          'label': 'Run'
+          'command': 'ria-word-randomizer:convert'
+        }
+      ]
+    ]
+  }
+]
