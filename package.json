@@ -1,11 +1,10 @@
 {
   "name": "ria-word-randomizer",
   "main": "./lib/ria-word-randomizer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Tanguy SCHOLTES <tanguy.scholtes@gmail.com>",
   "description": "Randomize letters of the selected word",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "ria-word-randomizer:convert"
   },
@@ -14,6 +13,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
